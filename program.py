@@ -1,3 +1,5 @@
+
+# Aleonka
 def my_superfunction():
     print('What an awesome print!')
     print('!')
@@ -13,3 +15,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+print('  _/*\___/*\_')
+print('  |         |')
+print('  | # ^_^ # |')
+print('  |_________|')
